@@ -1,6 +1,6 @@
 ### Olá! Sou o Caio Miranda (C4ca95)
 
-- 🔭 Graduando de Sistemas de Informação na Universidade Federal de Itajubá.
+- 🔭 Graduado em Sistemas de Informação na Universidade Federal de Itajubá.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4ca95&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4ca95)](https://github.com/anuraghazra/github-readme-stats)
